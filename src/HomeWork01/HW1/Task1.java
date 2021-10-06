@@ -8,7 +8,7 @@ public class Task1 {
                 new Cross(800), new Water(5));
 
         Team team1 = new Team("Team 1", new Human("Bob"), new Cat("Barsik"),
-                new Dog("Bobik"), new Dog("Sharik"));
+                new Dog("Tomas"), new Dog("Sharik"));
 
         Team team2 = new Team("Team 2", new Human("Molly"), new Cat("Frank"),
                 new Dog("Tom"), new Dog("Chip"));
